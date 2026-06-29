@@ -24,3 +24,7 @@ Any member working on design should start creating the custom icons and animatio
 Take your time—this plan has a long time to be done, so there is absolutely no rush.
 
 Please reply with the specific skill you are fastest and most efficient at so we can distribute the work!
+Here we have to make custom file extension .mx which will be our OS extension...!!!!!!!!!!!!!!
+
+Best,
+[Samriddh]
