@@ -5,7 +5,7 @@ Hey everyone,
 
 Here is the immediate plan for the team:
 
-We have to make basic apps in C++ using both .mx and .exe extensions, along with custom icons and animations, so that we can make Windows support available right from the start.
+We have to make basic apps in C++ and Dart (Flutter) using both .mx and .exe extensions, along with custom icons and animations, so that we can make Windows support available right from the start.
 
 📦 The Basic Apps We Are Making:
 🧮 Calculator (AI-integrated smart math engine)
